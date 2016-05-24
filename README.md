@@ -1,7 +1,7 @@
-# texttable-php
+# texttable-python
 
 A handy python class for printing fixed-width text tables.
-( ported to python from [texttable-php][https://github.com/dan-da/texttable-php] )
+( ported to python from [texttable-php](https://github.com/dan-da/texttable-php) ) 
 
 Let's see a couple examples, shall we?
 
